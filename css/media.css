@@ -1,0 +1,148 @@
+@media(max-width:  800px){
+    .card-top{
+        width: 14rem;
+        background-color: #ffffff;
+        padding: 1rem;
+    }
+    .column{
+        background-color: rgb(85, 85, 85);
+        border: none;
+        color: #ffffff;
+        width: 10rem;
+       }
+       .colum{
+           background-color: rgb(51, 51, 51);
+           border: none;
+           color: #ffffff;
+           width: 10rem;
+           font-size: 8px;
+          }
+          .card-t{
+            font-size: 15px;
+            font-weight: 900px;
+            padding-right: 2rem;
+        }
+        .card-title{
+            font-size: 15px;
+        }
+    .carder{
+        border: none;
+        background-color: #ffffff;
+        width: 7rem;
+        /* margin-right: 1rem; */
+    }
+    .yty{
+        padding-right: 15rem;
+        padding-top: 2rem;
+    }
+    .high-res{
+        width: 200px;
+        margin-right: 15rem;
+    }
+    .hot{
+     color: #ffffff;
+     font-size:60px;
+     padding-right: 15rem;
+    }
+    .btn{
+        /* background-color: rgb(160, 195, 54); */
+        padding: .2rem 1rem;
+       }
+       .card-title{
+        font-size: 12px;
+    }
+    .mania{
+        width: 100px;
+    }
+    .corrder{
+        width: 300px;
+    }
+}
+/* @media(max-width:  760px){
+    .card-top{
+        width: 8rem;
+        background-color: #ffffff;
+        padding: 1rem;
+    }
+} */
+@media(max-width: 400px){
+    .photos{
+        width: 100px;
+        margin-right: 3rem;
+    }
+    .shamm{
+        width: 15rem;
+        margin-right: 2rem;
+        margin-top: 2rem;
+    }
+    .column{
+        background-color: rgb(85, 85, 85);
+        border: none;
+        color: #ffffff;
+        width: 15rem;
+        margin-right: 2rem;
+        margin-top: 2rem;
+       }
+       .colum{
+           background-color: rgb(51, 51, 51);
+           border: none;
+           color: #ffffff;
+           width: 15rem;
+           font-size: 8px;
+           margin-right: 2rem;
+           margin-top: 2rem;
+          }
+          .card-t{
+            font-size: 15px;
+            font-weight: 900px;
+            padding-right: 2rem;
+        }
+        .card-title{
+            font-size: 15px;
+        }
+        .yty{
+            padding-right: 2rem;
+            padding-top: 2rem;
+        }
+        .high-res{
+            width: 200px;
+            margin-right: 2rem;
+        }
+        .hot{
+            color: #ffffff;
+            font-size:60px;
+            padding-right: 2rem;
+           }
+           .card-bod p{
+               font-size: 10px;
+           }
+           .carder{
+            border: none;
+            background-color: #ffffff;
+            width: 15rem;
+            margin-top: 2rem;
+        }
+        .card-title{
+            font-size: 16px;
+            text-align: center;
+        }
+        .seven{
+            text-align: center;
+        }
+        .card-top{
+            width: 15rem;
+            background-color: #ffffff;
+            padding: 1rem;
+            margin-right: 2rem;
+            margin-top: 2rem;
+        }
+        .buymet{
+            font-size: 16px;
+        }
+        .corrder{
+            width: 200px;
+        }
+        .bussnis{
+            display: block;
+        }
+}
